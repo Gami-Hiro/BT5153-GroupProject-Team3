@@ -27,7 +27,7 @@ Code > LSTM_Greedy.ipynb
 Code > LSTM_BEAM.ipynb
 
 ## Transformer1
-Please refer the following notebooks  　
+Please refer the following notebooks  
 Code > Transformer1_Greedy.ipynb  
 Code > Transformer1_BEAM.ipynb
 
