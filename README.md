@@ -30,13 +30,10 @@ Processed Descriptions are in Data > Data_processed_reduced_v4.csv
 ## Data Preprocessing
 
 ## LSTM
-Please refer the following codes  
 
 ## Transformer1
-Please refer the following codes
 
 ## Transformer2
-Please refer the following codes
 
 ## Result Confirmation  
 
