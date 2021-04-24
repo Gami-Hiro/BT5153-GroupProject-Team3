@@ -22,10 +22,16 @@ Processed Descriptions are in Data > Data_processed_reduced_v4.csv
 ## Data Preprocessing
 
 ## LSTM
-Please refer the following notebooks　　Code > LSTM_Greedy.ipynb　　Code > LSTM_BEAM.ipynb
+Please refer the following notebooks  
+Code > LSTM_Greedy.ipynb  
+Code > LSTM_BEAM.ipynb
 
 ## Transformer1
-Please refer the following notebooks　　Code > Transformer1_Greedy.ipynb　　Code > Transformer1_BEAM.ipynb
+Please refer the following notebooks  　
+Code > Transformer1_Greedy.ipynb  
+Code > Transformer1_BEAM.ipynb
 
 ## Transformer2
-Please refer the following notebooks　　Code > Transformer2_Greedy.ipynb　　Code > Transformer2_BEAM.ipynb
+Please refer the following notebooks  
+Code > Transformer2_Greedy.ipynb  
+Code > Transformer2_BEAM.ipynb
