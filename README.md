@@ -32,6 +32,7 @@ Processed Descriptions are in Data > Data_processed_reduced_v4.csv
 ## LSTM
 
 ## Transformer1
+Transformer 1 adopts a standard Transformer model architecture, incorporating both encoders and decoders that apply attention mechanism. In our project, image features and target captions are passed into the model for training, and test predictions on image captions are later generated through both Greedy Search and BEAM Search to study model performance under different search algorithms.
 
 ## Transformer2
 
