@@ -22,6 +22,8 @@ Processed Descriptions are in Data > Data_processed_reduced_v4.csv
 - [Transformer1](#Transformer1)
 - [GUI Demo](#Transformer2)
 
+## Scraping
+
 ## Data Preprocessing
 
 ## LSTM
