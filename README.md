@@ -18,10 +18,12 @@ Please Download image fies from here: https://drive.google.com/file/d/1K-Rcm1OO6
 Processed Descriptions are in Data > Data_processed_reduced_v4.csv
 
 ## Table of Contents
+- [Scraping](#Scraping)
 - [Data Preprocessing](#Data-Preprocessing)
 - [LSTM](#LSTM)
 - [Transformer1](#Transformer1)
-- [GUI Demo](#Transformer2)
+- [Transformer2](#Transformer2)
+- [Result Confirmation](#Result-Confirmation)
 
 ## Scraping
 
