@@ -1,6 +1,7 @@
 # BT5153-GroupProject-Team3
 This repository is a project for BT5153 Applied Machine Learning 2021 Spring. We developed a product description generator in English for fashion apparel products, to be implemented on e-commerce platforms.
-![スクリーンショット 2021-04-24 100940](https://user-images.githubusercontent.com/77659181/115944300-845cb180-a4e7-11eb-86cd-7e1697ba04f8.png)
+![Screenshot_2021-04-24 102440](https://user-images.githubusercontent.com/77659181/115944370-ee755680-a4e7-11eb-8fc3-9b421e01e87b.png)
+
 
 ## Requirements
 To run the notebooks successfully, you need to set up:
