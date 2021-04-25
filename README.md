@@ -16,7 +16,7 @@ Additional libraries/packages installation codes might be required depends on yo
 Please Download Full image fies from here(Around 3GB): https://drive.google.com/file/d/1K-Rcm1OO6W6sbbKVyQm8tDGh3m-RsLR6/view?usp=sharing  
 Processed Full Descriptions are in Data > Data_processed_reduced_v4.csv
 
-Also, small sample pictures and data are in th efollowing path
+Also, small sample pictures and data are in the following path
 Data > Sample
 
 ## Table of Contents
@@ -31,7 +31,7 @@ Data > Sample
 For data scraping, we used Thirdparty software "Octoparse", but some website reject it. Hence for the website we wrote code with Serenium in Python.
 
 Path of Code:  
-Code > DataScraping
+Code > DataScraping > each brands's scraping codes
 
 ## EDA and Data Preprocessing
 EDA and the following data preprocessing is executed in the code.
