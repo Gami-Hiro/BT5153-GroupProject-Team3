@@ -65,7 +65,7 @@ Code > Model > Transformer2_Greedy.ipynb
 Code > Model > Transformer2_Beam.ipynb  
 
 ## Model Insights & Case Studies  
-We analyse the performance of our selected model, Transformer 2, across brands, and examine several case studies using saliency maps for explainability. Also, we calculated Rouge score to exprole model insights.
+We analyse the performance of our selected model, Transformer 2, across brands, and examine several case studies using saliency maps for explainability. Also, we calculated Rouge score to explore model insights.
 
 Path of Code:  
 Code > Model Insights & Case Studies > Model Performance Insights and Case Studies.ipynb  
