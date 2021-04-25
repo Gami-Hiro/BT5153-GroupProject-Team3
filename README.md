@@ -26,7 +26,10 @@ Processed Descriptions are in Data > Data_processed_reduced_v4.csv
 - [Result Confirmation](#Result-Confirmation)
 
 ## Scraping
+For data scraping, we used Thirdparty software "Octoparse", but some website reject it. Hence for the website we wrote code with Serenium in Python.
 
+Path of Code:  
+Code > DataScraping
 
 ## Data Preprocessing
 
