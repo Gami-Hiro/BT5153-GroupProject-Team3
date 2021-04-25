@@ -31,8 +31,11 @@ For data scraping, we used Thirdparty software "Octoparse", but some website rej
 Path of Code:  
 Code > DataScraping
 
-## Data Preprocessing
+## EDA and Data Preprocessing
+EDA and the following data preprocessing is executed in the code.
 
+Path of Code:  
+Code > EDA_and_Processing >
 
 ## LSTM
 We constructed a base-line model with long-short term memory networks (LSTM).LSTM can learn long term relation ship of the contexts, using previous words and image to generate the next word in sequence.
