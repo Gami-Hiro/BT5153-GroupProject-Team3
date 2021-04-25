@@ -31,10 +31,10 @@ Data > Sample
 - [Result Confirmation](#Result-Confirmation)
 
 ## Scraping
-For data scraping, we used Thirdparty software "Octoparse", but some website reject it. Hence for the website we wrote code with Serenium in Python.
+For data scraping, we used Thirdparty software "Octoparse", but some website reject it. Hence for the website we wrote code with Selenium in Python.
 
 Path of Code:  
-Code > DataScraping > each brands's scraping codes
+Code > DataScraping > Web scraping scripts for several brands
 
 ## EDA and Data Preprocessing
 EDA and the data preprocessing is executed in the code.
