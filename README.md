@@ -13,8 +13,11 @@ Jupyter Notebook
 Additional libraries/packages installation codes might be required depends on your environment.
 
 ## Dataset
+[Data For Model Training]
 Please Download Full image fies from here(Around 3GB): https://drive.google.com/file/d/1K-Rcm1OO6W6sbbKVyQm8tDGh3m-RsLR6/view?usp=sharing  
-Processed Full Descriptions are in Data > Data_processed_reduced_v4.csv
+
+Processed Full Descriptions are in the following path  
+Data > Data_processed_reduced_v4.csv
 
 Also, small sample pictures and data are in the following path
 Data > Sample
@@ -34,14 +37,15 @@ Path of Code:
 Code > DataScraping > each brands's scraping codes
 
 ## EDA and Data Preprocessing
-EDA and the following data preprocessing is executed in the code.
+EDA and the data preprocessing is executed in the code.
 
 Path of Code:  
 Code > EDA_and_Processing > EDA_after_processing.ipynb  
 Code > EDA_and_Processing > EDA_before_processing.ipynb  
+Code > EDA_and_Processing > Text_Cleaning.ipynb.ipynb  
 
 ## LSTM
-We constructed a base-line model with long-short term memory networks (LSTM).LSTM can learn long term relation ship of the contexts, using previous words and image to generate the next word in sequence.
+We constructed a baseline model with long-short term memory networks (LSTM). Pre-trained models InceptionV3 and GloVe were used to obtain image and word vectors. LSTM can learn the context and long-term relationship between words in a sentence, and is thus suitable for NLP tasks. Our model uses previous words and the image to generate the next word in sequence. 
 
 Path of Code:  
 Code > Model > LSTM_Beam.ipynb  
@@ -60,8 +64,8 @@ Path of Code:
 Code > Model > Transformer2_Greedy.ipynb  
 Code > Model > Transformer2_Beam.ipynb  
 
-## Result Confirmation  
-We confirmed the predicted descriptions compared with actual one and find insites
+## Model Insights & Case Studies  
+We analyse the performance of our selected model, Transformer 2, across brands, and examine several case studies using saliency maps for explainability.
 
 Path of Code:  
 Code > Performance_Evaluation > Model Performance Insights and Case Studies.ipynb
