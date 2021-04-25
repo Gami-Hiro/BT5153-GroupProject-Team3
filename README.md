@@ -64,7 +64,7 @@ Path of Code:
 Code > Model > Transformer2_Greedy.ipynb  
 Code > Model > Transformer2_Beam.ipynb  
 
-## Result Confirmation  
+## Model Insights & Case Studies  
 We analyse the performance of our selected model, Transformer 2, across brands, and examine several case studies using saliency maps for explainability.
 
 Path of Code:  
