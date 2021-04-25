@@ -34,8 +34,8 @@ Code > DataScraping
 EDA and the following data preprocessing is executed in the code.
 
 Path of Code:  
-Code > EDA_and_Processing > EDA_after_processing.ipynb
-Code > EDA_and_Processing > EDA_before_processing.ipynb
+Code > EDA_and_Processing > EDA_after_processing.ipynb  
+Code > EDA_and_Processing > EDA_before_processing.ipynb  
 
 ## LSTM
 We constructed a base-line model with long-short term memory networks (LSTM).LSTM can learn long term relation ship of the contexts, using previous words and image to generate the next word in sequence.
