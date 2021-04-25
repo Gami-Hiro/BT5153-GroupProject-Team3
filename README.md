@@ -13,8 +13,11 @@ Jupyter Notebook
 Additional libraries/packages installation codes might be required depends on your environment.
 
 ## Dataset
+[Data For Model Training]
 Please Download Full image fies from here(Around 3GB): https://drive.google.com/file/d/1K-Rcm1OO6W6sbbKVyQm8tDGh3m-RsLR6/view?usp=sharing  
-Processed Full Descriptions are in Data > Data_processed_reduced_v4.csv
+
+Processed Full Descriptions are in the following path  
+Data > Data_processed_reduced_v4.csv
 
 Also, small sample pictures and data are in the following path
 Data > Sample
@@ -34,11 +37,12 @@ Path of Code:
 Code > DataScraping > each brands's scraping codes
 
 ## EDA and Data Preprocessing
-EDA and the following data preprocessing is executed in the code.
+EDA and the data preprocessing is executed in the code.
 
 Path of Code:  
 Code > EDA_and_Processing > EDA_after_processing.ipynb  
 Code > EDA_and_Processing > EDA_before_processing.ipynb  
+Code > EDA_and_Processing > Text_Cleaning.ipynb.ipynb  
 
 ## LSTM
 We constructed a base-line model with long-short term memory networks (LSTM).LSTM can learn long term relation ship of the contexts, using previous words and image to generate the next word in sequence.
