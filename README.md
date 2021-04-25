@@ -45,7 +45,7 @@ Code > EDA_and_Processing > EDA_before_processing.ipynb
 Code > EDA_and_Processing > Text_Cleaning.ipynb.ipynb  
 
 ## LSTM
-We constructed a base-line model with long-short term memory networks (LSTM).LSTM can learn long term relation ship of the contexts, using previous words and image to generate the next word in sequence.
+We constructed a baseline model with long-short term memory networks (LSTM). Pre-trained models InceptionV3 and GloVe were used to obtain image and word vectors. LSTM can learn the context and long-term relationship between words in a sentence, and is thus suitable for NLP tasks. Our model uses previous words and the image to generate the next word in sequence. 
 
 Path of Code:  
 Code > Model > LSTM_Beam.ipynb  
@@ -65,7 +65,7 @@ Code > Model > Transformer2_Greedy.ipynb
 Code > Model > Transformer2_Beam.ipynb  
 
 ## Result Confirmation  
-We confirmed the predicted descriptions compared with actual one and find insites
+We analyse the performance of our selected model, Transformer 2, across brands, and examine several case studies using saliency maps for explainability.
 
 Path of Code:  
 Code > Performance_Evaluation > Model Performance Insights and Case Studies.ipynb
