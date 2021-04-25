@@ -13,9 +13,8 @@ Jupyter Notebook
 Additional libraries/packages installation codes might be required depends on your environment.
 
 ## Dataset
-Please Download image fies from here: https://drive.google.com/file/d/1K-Rcm1OO6W6sbbKVyQm8tDGh3m-RsLR6/view?usp=sharing  
-
-Processed Descriptions are in Data > Data_processed_reduced_v4.csv
+Please Download Full image fies from here: https://drive.google.com/file/d/1K-Rcm1OO6W6sbbKVyQm8tDGh3m-RsLR6/view?usp=sharing  
+Processed Full Descriptions are in Data > Data_processed_reduced_v4.csv
 
 ## Table of Contents
 - [Scraping](#Scraping)
@@ -35,7 +34,8 @@ Code > DataScraping
 EDA and the following data preprocessing is executed in the code.
 
 Path of Code:  
-Code > EDA_and_Processing >
+Code > EDA_and_Processing > EDA_after_processing.ipynb
+Code > EDA_and_Processing > EDA_before_processing.ipynb
 
 ## LSTM
 We constructed a base-line model with long-short term memory networks (LSTM).LSTM can learn long term relation ship of the contexts, using previous words and image to generate the next word in sequence.
