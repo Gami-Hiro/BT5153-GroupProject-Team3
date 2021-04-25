@@ -13,8 +13,11 @@ Jupyter Notebook
 Additional libraries/packages installation codes might be required depends on your environment.
 
 ## Dataset
-Please Download Full image fies from here: https://drive.google.com/file/d/1K-Rcm1OO6W6sbbKVyQm8tDGh3m-RsLR6/view?usp=sharing  
+Please Download Full image fies from here(Around 3GB): https://drive.google.com/file/d/1K-Rcm1OO6W6sbbKVyQm8tDGh3m-RsLR6/view?usp=sharing  
 Processed Full Descriptions are in Data > Data_processed_reduced_v4.csv
+
+Also, small sample pictures and data are in th efollowing path
+Data > Sample
 
 ## Table of Contents
 - [Scraping](#Scraping)
