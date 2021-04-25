@@ -27,14 +27,32 @@ Processed Descriptions are in Data > Data_processed_reduced_v4.csv
 
 ## Scraping
 
+
 ## Data Preprocessing
 
+
 ## LSTM
+We constructed a base-line model with long-short term memory networks (LSTM).LSTM can learn long term relation ship of the contexts, using previous words and image to generate the next word in sequence.
+
+Path of Code:  
+Code > Model > LSTM_Beam  
+Code > Model > LSTM_Greedy  
 
 ## Transformer1
 Transformer 1 adopts a standard Transformer model architecture, incorporating both encoders and decoders that apply attention mechanism. In our project, image features and target captions are passed into the model for training, and test predictions on image captions are later generated through both Greedy Search and BEAM Search to study model performance under different search algorithms.
 
+Path of Code:  
+Code > Model > Transformer1_Greedy_Beam  
+
 ## Transformer2
+In addition to the traditional transformer architecture, our group also built another Transformer with a decoder-only architecture (Transformer 2) in comparison with Transformer 1.Moreover, Transformer 2 applies the GloVe for its word embeddings. Our hypothesis is that the pre-trained GloVe shall deliver a better quality of word embeddings which in turn will improve our model performance. With different architectures, we intend to examine and compare the two Transformers’ performances.  
+
+Path of Code:  
+Code > Model > Transformer2_Greedy  
+Code > Model > Transformer2_Beam
 
 ## Result Confirmation  
+We confirmed the predicted descriptions compared with actual one and find insites
 
+Path of Code:  
+Code > Performance_Evaluation > Model Performance Insights and Case Studies.ipynb
